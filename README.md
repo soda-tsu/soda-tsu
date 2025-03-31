@@ -1,5 +1,6 @@
-Self-taught programmer with no university degree. :sunglasses: <br/> I believe the current education system is outdated, and I prefer not to waste my time on empty titles.
+Oi, meu nome é Samuel Cavalcanti e atualmente trabalho como único desenvolvedor front-end na <a href="https://www.aloconcursos.com/">Alô Concursos</a> onde cuido de toda a parte visual e interativa da plataforma utlizando Next 15 e Docker. 
+<br/><br/>
+Tenho 30 anos, sou casado com uma japonesa e pretendemos ir morar no Japão daqui a uns anos.<br/><br/> No meu tempo livre estou entre estudar japonês, jogar com amigos e automatizar tarefas repetitivas com python.
+<br/><br/>
+Observação: Em python eu programo batendo a cabeça no teclado, então não julgue minhas boas práticas olhando meus códigos de python, nunca estudei python e meu foco de estudo profissional é em javascript.
 
-Currently, I work at <a href="https://www.aloconcursos.com/">Alô concursos</a> as the sole front-end developer, mostly using React, but I also create small Python applications for file extractions.
-
-As a hobby, I enjoy exploring my Arch Linux and studying Japanese.
